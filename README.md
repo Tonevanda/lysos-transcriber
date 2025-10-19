@@ -1,2 +1,2 @@
 # lysos-transcriber
-Transcriber for Républica dos LySOS
+Transcriber for República dos LySOS
