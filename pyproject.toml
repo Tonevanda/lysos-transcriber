@@ -1,0 +1,9 @@
+[project]
+name = "lysos-transcriber"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "openai-whisper>=20250625",
+    "pyannote-audio>=4.0.1",
+]
